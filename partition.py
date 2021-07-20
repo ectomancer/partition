@@ -7,7 +7,7 @@ _p = dict()
 
 
 def partition(n: int) -> int:
-    """Pure Python partition function, ported to Python from Sage.
+    """Pure Python partition function, ported to Python from SageMath.
     A000041 implemented by Peter Luschny.
     @CachedFunction
     def A000041(n):
