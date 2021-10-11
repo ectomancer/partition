@@ -1,1 +1,1 @@
-Pure Python partition function, no imports, ported from Sage.
+Pure Python partition function, no imports, ported from SageMath.
